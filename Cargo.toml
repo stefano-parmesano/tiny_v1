@@ -5,6 +5,5 @@ edition = "2024"
 description = "Parser for Fabric's Tiny v1 files "
 repository = "https://github.com/stefano-parmesano/tiny_v1"
 license = "GPL-3.0-or-later"
-license-file = "LICENSE"
 keywords = ["fabricmc", "minecraft", "parser"]
 categories = ["data-structures", "parser-implementations"]
